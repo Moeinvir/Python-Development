@@ -1,0 +1,1 @@
+print(f"Result is {2+5} Multiplication is {2*5} Division is {float(2/5)} Minus is {2-5}")
